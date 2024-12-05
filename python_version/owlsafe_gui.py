@@ -4,6 +4,7 @@ from owlsafe_conosle import generate_random_password, validate_input, save_passw
 import hashlib
 import os
 
+# Global variables
 CHARACTERS = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()-_+="
 PASSWORD_LENGTH = 12
 PASSWORD_FILE = "storage/password.txt"
