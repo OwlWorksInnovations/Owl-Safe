@@ -12,4 +12,4 @@ Update v0.0.0.2
   - Minor optimizations
     
 - Python
-  - Nothing... (I will work on it soon but currently c# is pulling my intrest)
+  - Nothing... (I will work on it soon but currently c# is pulling my interest)
