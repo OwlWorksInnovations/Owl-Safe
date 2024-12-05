@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&amp;family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="{{ url_for('static', filename='stylesheets/app.css') }}"
+      rel="stylesheet"
+    />
+    <title>Home - Owl Safe</title>
+  </head>
+<body>
+    <header>
+      <nav class="navbar">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/login">Login</a></li>
+          <li><a href="/register">Register</a></li>
+        </ul>
+      </nav>
+      <h1>Home</h1>
+
+      {% if current_user.is_authenticated %}
+      <h2>Logged in as: {{ current_user.id }}</h2>
+      <h3><a href="/logout">Logout</a></h3>
+      {% endif %}
+      
+    </header>
+
+    <main class="container">
+      <section>
+        <p>This is the home page.</p>
+        <p><a href="/login">Login</a><a href="/register">Register</a></p>
+      </section>
+    </main>
+  </header>
+</body>
+</html>
