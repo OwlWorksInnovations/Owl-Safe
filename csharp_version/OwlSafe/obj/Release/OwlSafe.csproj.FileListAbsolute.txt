@@ -1,0 +1,10 @@
+C:\Users\juanp\source\repos\OwlSafe\OwlSafe\bin\Release\OwlSafe.exe.config
+C:\Users\juanp\source\repos\OwlSafe\OwlSafe\bin\Release\OwlSafe.exe
+C:\Users\juanp\source\repos\OwlSafe\OwlSafe\bin\Release\OwlSafe.pdb
+C:\Users\juanp\source\repos\OwlSafe\OwlSafe\obj\Release\OwlSafe.csproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\OwlSafe\OwlSafe\obj\Release\OwlSafe.Form1.resources
+C:\Users\juanp\source\repos\OwlSafe\OwlSafe\obj\Release\OwlSafe.Properties.Resources.resources
+C:\Users\juanp\source\repos\OwlSafe\OwlSafe\obj\Release\OwlSafe.csproj.GenerateResource.cache
+C:\Users\juanp\source\repos\OwlSafe\OwlSafe\obj\Release\OwlSafe.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\OwlSafe\OwlSafe\obj\Release\OwlSafe.exe
+C:\Users\juanp\source\repos\OwlSafe\OwlSafe\obj\Release\OwlSafe.pdb
