@@ -1,0 +1,8 @@
+Background Dark (Slate 900): #0F172A
+Background Secondary (Slate 800): #1E293B
+Amber Primary: #D97706
+Amber Secondary: #FBBF24
+Emerald Primary: #059669
+Emerald Secondary: #10B981
+Text White: #FFFFFF
+Text Dark: #020617
