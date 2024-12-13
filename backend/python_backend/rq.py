@@ -1,3 +1,5 @@
+# This was all written by chatGPT to test i will write my own some time
+
 import requests
 
 def login(email, password, base_url='http://localhost:5000'):
