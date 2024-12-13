@@ -1,0 +1,1 @@
+<RequestsCookieJar[<Cookie session=eyJfcGVybWFuZW50Ijp0cnVlLCJ1c2VyIjoianVhbnBpc3RvcmlzMDFAZ21haWwuY29tIn0.Z1tY2Q.qfeGunqOEW7CuSfU12uI6DSEjNc for localhost.local/>]>
