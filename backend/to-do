@@ -1,2 +1,5 @@
-REWRITE EVERYTHING
-REWUTE FR FR FR
+- [ ] simplify user authentication
+- [ ] remove login-form and signup-form routes
+- [ ] add index page
+- [ ] add dashboard
+- [ ] add download route
