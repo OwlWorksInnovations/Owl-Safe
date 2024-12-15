@@ -16,6 +16,9 @@
             <li><a href="/register">Register</a></li>
           </section>
         </ul>
+        {% if loggedin_user %}
+        <p class="logged-in">Logged in as: {{ loggedin_user }}</p>
+        {% endif %}
       </nav>
     </header>
 

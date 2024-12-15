@@ -197,3 +197,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+/backend/pythonv2_backend/app_me.py
+/backend/pythonv2_backend/client_secret.json
+/backend/pythonv2_backend/client_id.txt
