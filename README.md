@@ -5,11 +5,11 @@
 - Login and registering system (~~potentially using website~~, We are using node js so project is going to take way longer since im still learning it)
 
 - Backend
- - Finish implementing google OAuth
- - Make dashboard
- - Make it so that app can store and display password data
- - Make database to store user account info such as email, name, and generated passwords
- - add hashing for passwords 
+  - Finish implementing google OAuth
+  - Make dashboard
+  - Make it so that app can store and display password data
+  - Make database to store user account info such as email, name, and generated passwords
+  - add hashing for passwords 
 
 # Updates
 
