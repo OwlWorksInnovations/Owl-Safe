@@ -26,7 +26,6 @@ GOOGLE_SCOPES = [
     "openid"
 ]
 
-
 def get_google_auth_flow(CLIENT_SECRETS_FILE, SCOPES):
     # Creates Google OAuth flow
     flow = Flow.from_client_secrets_file(
